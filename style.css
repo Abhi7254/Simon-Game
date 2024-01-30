@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(196, 244, 232);
+}
+
+.container{
+    display: flex;
+    justify-content: center;   
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius: 1.5rem;
+    border: solid black 0.2rem;
+    margin: 1rem;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.purple{
+    background: rgb(222, 126, 222);
+}
+
+.auto{
+    background-color: white ;
+}
+
+.user{
+    background-color: black;
+}
+
+.reset{
+    background-color: #ec8b8b;
+}
